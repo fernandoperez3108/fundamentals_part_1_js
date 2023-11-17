@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# task fundamentals 
 
 > One paragraph statement about the project.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fernandoperez3108.github.io/fundamentals_part_1_js/)
 
 
 ## Getting Started
@@ -43,11 +43,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Fernando Pérez**
+👤 **Fernando Perez**
 
 - GitHub: [fernandoperez3108](https://github.com/fernandoperez3108)
-
-
 
 ## 🤝 Contributing
 
